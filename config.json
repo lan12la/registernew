@@ -1,0 +1,31 @@
+{
+    "token": "MTExMjQ1NTI5ODc4MzkwMzgwNw.GbbhRo.hOP6EWVu4CnqseRAJYdoFe7_4C08QYwfiUfxbI",
+    "prefix": ".",
+    "voiceChannelID": "1113898144770576435",
+
+
+    "presence": {
+        "name": "Aquila ❤️ Charonn'",
+        "type": "WATCHING"
+    },
+
+    "rol": {
+        "booster": "BOOSTER ROL ID"
+    },
+
+    "kayıt": {
+        "kayıtsızID": "1113089075583402090",
+        "erkekID": "1113469934824075284",
+        "kızID": "1113469955908849666",
+        "kayıtYetkiliID": "1113106154143359006",
+
+        "kayıtchatID": "1113089076166402070",
+
+        "tag": "✯",
+        "kayıtsızNick": "İsim | Yaş"
+    },
+
+    "emoji": {
+        "amblem": ""
+    }
+}
